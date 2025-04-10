@@ -6,5 +6,9 @@
 
 
 ### Answer:
-1. go to the > `8s_time_table_to_200.c` file.
-2. go to the > `odd_number_100_1.c` file.
+1. Go to the > `8s_time_table_to_200.c` file.
+2. Go to the > `odd_number_100_1.c` file.
+3. Go to the > `more_while_loop.c` file.
+4. **Difference between break and continue:**
+- `break` - When the condition is met, it completely exits the loop. It stops the entire loop execution.
+- `continue` - When the condition is met, it skips the current iteration, and continues with the next one. It doesn’t stop the loop.
